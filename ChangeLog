@@ -70,17 +70,7 @@ ChangeLog
   * Fix loop
   * Clear docs about pipeline return values
   * Add extra arguments to create_user. Closes #565
-  * Get auth extra arguments from setting too
-
-0.7.17 / 2013-01-05
--------------------
-
-  * Add management commands to setup.py conf. Closes #564
-  * Avoid AttributeError on backend_setting call. Closes #561
-
-0.7.16 / 2013-01-04
--------------------
-
+  * Get auth extra arguments from setting too23453253
   * Merge branch 'master' of github.com:omab/django-social-auth
 
 0.7.15 / 2013-01-04
